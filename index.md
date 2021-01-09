@@ -7,8 +7,8 @@ To add these banners to your website or whatever you'd like use the HTML Code:
 ```
 
 TODO List:
-- [ ]  Create API.
-- [ ]  Add different sized banners.
-- [ ]  Create project management software.
+* Create API.
+* Add different sized banners.
+* Create project management software.
 
 ***Note***: This site is still in early development. Please DM MrBeanGuy#7052 If you have any questions.
